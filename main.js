@@ -13,3 +13,8 @@ closeIcon.addEventListener('click', () => {
   nav.classList.remove('active');
   overlay.classList.remove('active');
 });
+
+overlay.addEventListener('click', () => {
+  nav.classList.remove('active');
+  overlay.classList.remove('active');
+});
