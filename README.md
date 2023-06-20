@@ -1,3 +1,3 @@
-Frontend mentor challenged.
+Frontend mentor challenge.
 
 created by Me. >,<
